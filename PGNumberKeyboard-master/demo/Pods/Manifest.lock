@@ -1,0 +1,12 @@
+PODS:
+  - PGNumberKeyboard (1.0.4)
+
+DEPENDENCIES:
+  - PGNumberKeyboard (~> 1.0.3)
+
+SPEC CHECKSUMS:
+  PGNumberKeyboard: da00320be74354d947da4c2ef8993cf01a832e3f
+
+PODFILE CHECKSUM: 9a1864d9e4152acbeb77ddb5ded73010060a5879
+
+COCOAPODS: 1.2.1
